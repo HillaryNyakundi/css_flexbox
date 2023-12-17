@@ -1,0 +1,27 @@
+.container {
+       height: 80vh;
+       width: 80vw;
+       background: black;
+       color: white;
+       padding: 5px;
+       display: flex;
+}
+
+.item {
+       padding: 5px;
+}
+
+.item1 {
+       background: crimson;
+       flex: 1;
+}
+
+.item2 {
+       background: coral;
+       flex: 2;
+}
+
+.item3 {
+       background: darkmagenta;
+       flex: 1;
+}
